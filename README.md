@@ -41,6 +41,6 @@ This repository contains C++ implementations of several fundamental dynamic prog
 2. **Space Complexity**: Can be more space-efficient as it only stores necessary data rather than keeping a call stack.
 3. **Iterative Nature**: Can handle larger input sizes without the risk of stack overflow that may occur with deep recursion.
 
-1. Repository:
+### Repository:
    ```sh
-   git clone 
+   git https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach
