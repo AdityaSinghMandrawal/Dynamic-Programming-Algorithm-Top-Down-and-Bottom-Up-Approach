@@ -6,28 +6,28 @@ This repository contains C++ implementations of several fundamental dynamic prog
 ## Algorithms Included
 
 ### 1. Fibonacci Sequence
-- **Top-Down Approach**: Recursive solution with memoization.
-- **Bottom-Up Approach**: Iterative solution with tabulation.
+- **Top-Down Approach**: [Recursive solution with memoization](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Fibonacci_Sequence.cpp).
+- **Bottom-Up Approach**: [Iterative solution with tabulation](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Fibonacci_Sequence.cpp).
 
 ### 2. Longest Common Subsequence (LCS)
-- **Top-Down Approach**: Recursive solution with memoization.
-- **Bottom-Up Approach**: Iterative solution with tabulation.
+- **Top-Down Approach**: [Recursive solution with memoization](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Longest_Common_Subsequence.cpp).
+- **Bottom-Up Approach**: [Iterative solution with tabulation](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Longest_Common_Subsequence.cpp).
 
 ### 3. 0/1 Knapsack Problem
-- **Top-Down Approach**: Recursive solution with memoization.
-- **Bottom-Up Approach**: Iterative solution with tabulation.
+- **Top-Down Approach**: [Recursive solution with memoization](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/01_Knapsack.cpp).
+- **Bottom-Up Approach**: [Iterative solution with tabulation](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/01_Knapsack.cpp).
 
 ### 4. Matrix Chain Multiplication
-- **Top-Down Approach**: Recursive solution with memoization.
-- **Bottom-Up Approach**: Iterative solution with tabulation.
+- **Top-Down Approach**: [Recursive solution with memoization](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Matrix_chain_Multiplication.cpp).
+- **Bottom-Up Approach**: [Iterative solution with tabulation](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Matrix_chain_Multiplication.cpp).
 
 ### 5. Min Cost Climbing Stairs
-- **Top-Down Approach**: Recursive solution with memoization.
-- **Bottom-Up Approach**: Iterative solution with tabulation.
+- **Top-Down Approach**: [Recursive solution with memoization](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Min_Cost_Climbing_Stairs.cpp).
+- **Bottom-Up Approach**: [Iterative solution with tabulation](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Min_Cost_Climbing_Stairs.cpp).
 
 ### 6. Coin Change Problem
-- **Top-Down Approach**: Recursive solution with memoization.
-- **Bottom-Up Approach**: Iterative solution with tabulation.
+- **Top-Down Approach**: [Recursive solution with memoization](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Coin_Change.cpp).
+- **Bottom-Up Approach**: [Iterative solution with tabulation](https://github.com/AdityaSinghMandrawal/Dynamic-Programming-Algorithm-Top-Down-and-Bottom-Up-Approach/blob/main/Coin_Change.cpp).
 
 ## Advantages of Each Approach
 
